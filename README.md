@@ -1,6 +1,6 @@
 <!--<h1 align="center"><img src="/header.png" alt="Error?"></h1>
 <h2 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Yanone+Kaffeesatz&weight=700&size=50&duration=550&pause=1000&color=000000&background=FFFFFF&center=true&vCenter=true&random=false&width=500&height=100&lines=C%23%2C+C%2B%2B%2C+Java+dev;Criticism+%3D+improvement" alt="Typing SVG" /></a></h2> -->
-
+<p>Hello! I'm Andrey and.. I Love .NET</p>
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->

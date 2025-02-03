@@ -5,8 +5,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-YAML       1 hr 19 mins    █████████████████████▓░░░   86.40 %
-i3config   12 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.60 %
+i3config   12 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->

@@ -26,6 +26,7 @@
 
 <p>I am exploring how systems work under the hood while practicing writing efficient code.</p>
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3bad64c8-dade-4e66-abf6-5d8367a6a819" />
+<img width="1920" height="1080" alt="Screenshot from 2026-09-28 17-27-53" src="https://github.com/user-attachments/assets/c11fe039-7cd6-4ece-87f1-3582f805d76c" />
+
 
 <h3>I like Computer Science 🖤</h3>

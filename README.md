@@ -1,32 +1,28 @@
 <h1>Hello!</h1>
-<h2>Welcome to my profile</h2>
+<h3>Welcome to my profile</h3>
 
-<p>I am interested in systems programming, low-level technologies, and customizing desktop environments.</p>
+```sh
+$ cat /proc/interests
+I am interested in systems programming, low-level technologies, and customizing desktop environments.
+I am exploring how systems work under the hood while practicing writing efficient code.
+```
 
 <p>
-  <a href="https://www.rust-lang.org/">
-    <img src="https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white" height="28" alt="Rust" />
-  </a>
-  <a href="https://dotnet.microsoft.com/languages/csharp">
-    <img src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" height="28" alt="C#" />
-  </a>
-  <a href="https://archlinux.org/">
-    <img src="https://img.shields.io/badge/-Arch%20Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white" height="28" alt="Arch Linux" />
-  </a>
-  <a href="https://www.freebsd.org/">
-    <img src="https://img.shields.io/badge/-FreeBSD-AB2B28?style=flat-square&logo=freebsd&logoColor=white" height="28" alt="FreeBSD" />
-  </a>
-  <a href="https://neovim.io/">
-    <img src="https://img.shields.io/badge/-Neovim-57A143?style=flat-square&logo=neovim&logoColor=white" height="28" alt="Neovim" />
-  </a>
-  <a href="https://ziglang.org/">
-    <img src="https://img.shields.io/badge/-Zig-F7A41D?style=flat-square&logo=zig&logoColor=black" height="28" alt="Zig" />
-  </a>
+  <a href="https://www.rust-lang.org/"><img src="https://img.shields.io/badge/-Rust-181825?style=flat-square&logo=rust&logoColor=DEA584" height="28" alt="Rust" /></a>
+  <a href="https://ziglang.org/"><img src="https://img.shields.io/badge/-Zig-181825?style=flat-square&logo=zig&logoColor=F7A41D" height="28" alt="Zig" /></a>
+  <a href="https://dotnet.microsoft.com/languages/csharp"><img src="https://img.shields.io/badge/-C%23-181825?style=flat-square&logoColor=9B4F96" height="28" alt="C#" /></a>
+  <a href="https://archlinux.org/"><img src="https://img.shields.io/badge/-Arch%20Linux-181825?style=flat-square&logo=arch-linux&logoColor=1793D1" height="28" alt="Arch Linux" /></a>
+  <a href="https://www.freebsd.org/"><img src="https://img.shields.io/badge/-FreeBSD-181825?style=flat-square&logo=freebsd&logoColor=AB2B28" height="28" alt="FreeBSD" /></a>
+  <a href="https://neovim.io/"><img src="https://img.shields.io/badge/-Neovim-181825?style=flat-square&logo=neovim&logoColor=57A143" height="28" alt="Neovim" /></a>
 </p>
 
-<p>I am exploring how systems work under the hood while practicing writing efficient code.</p>
+<kbd>
+  <img width="100%" alt="Desktop Screenshot" src="https://github.com/user-attachments/assets/c11fe039-7cd6-4ece-87f1-3582f805d76c" />
+</kbd>
 
-<img width="1920" height="1080" alt="Screenshot from 2026-09-28 17-27-53" src="https://github.com/user-attachments/assets/c11fe039-7cd6-4ece-87f1-3582f805d76c" />
+<br /> <br />
 
-
-<h3>I like Computer Science 🖤</h3>
+<div align="center">
+  <h3>I like Computer Science 🖤</h3>
+  <sub><code>systems programming</code> · <code>networking</code> · <code>computers</code></sub>
+</div>
